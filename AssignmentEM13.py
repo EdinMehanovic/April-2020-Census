@@ -151,7 +151,3 @@ def main_bus(repeat = 'y'):
 		main_bus(repeat)
 #########################################################################################
 main_bus()
-
-# Edin Mehanovic
-# As per usual, the main challenge I had for this assignment was the process. Figuring out what I needed to do and what lists to use for the main components in this program. 
-# I learned how to use the clock function for this project, it was pretty straight forward on how to implement it. 
